@@ -7,7 +7,7 @@ hero:
   text: "关于张稼铄的成长记录"
   tagline: 我是小宝——各位亲朋好友请关注我的成长吧
   image:
-    src: /assest/user.jpg
+    src: /user.jpg
     alt: 张稼铄的个人空间
 
   actions:
